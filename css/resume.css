@@ -1,0 +1,103 @@
+body {
+    margin: 35px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Merriweather', serif;
+    color:#253250;
+    background-image: url('../images/grid.png');
+  }
+  
+  .masthead {
+    margin-bottom: -5 px;
+  }
+  
+  .masthead h1 {
+    margin: 0;
+    font-size: 4em;
+    text-transform: lowercase;
+    color: #253250;
+  }
+  
+  .masthead h2 {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2em;
+  }
+  
+  
+  section h1 {
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 1px;
+    color:#253250;
+  }
+
+  section h2 {
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 1px;
+    color:#609cba;
+  }
+
+  
+  section h3 {
+    color:#609cba;
+    font-weight: normal;
+  }
+  
+  ul, dl, h3 {
+    margin-left: 60px;
+    padding-left: 0;
+    list-style: none;
+    line-height: 1.4em;
+  }
+  
+  ul, dl {
+    margin-bottom: 20px;
+  }
+  
+  dd {
+    color:#253250;
+  }
+  
+  time {
+    margin-right: 10px;
+    font-weight:bold;
+    font-style: normal;
+  }
+  /* li {font-family: 'Merriweather', serif;
+  } */
+
+  dt{
+    font-style: italic;
+    padding-top: 10px
+  }
+
+  .job_title {
+    font-size: 15px;
+    font-family: 'Merriweather', serif;
+  }
+
+  .tasks {
+    font-size: 17px;
+    font-family: 'Merriweather', serif;
+    line-height: 18px;
+  }
+
+  footer{
+    font-size: 17px;
+    font-family: 'Merriweather', serif;
+    line-height: -20px;
+    padding-top: 20px
+    
+  }
+.main {
+  margin-left: 100px;
+}
+  
+.skills {
+  color: #609cba;
+}
+
+
